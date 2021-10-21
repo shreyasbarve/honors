@@ -1,0 +1,9 @@
+POST http://localhost:5000/
+Content-Type: application/json
+
+{
+    "name":"Shreyas",
+    "date":"Mon Mar 08 2021",
+    "isrc":"anime",
+    "content":"japan"
+}

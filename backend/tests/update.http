@@ -1,0 +1,9 @@
+PATCH http://localhost:5000?uid=2
+Content-Type: application/json
+
+{
+    "name":"Raunak",
+    "date":"Mon Mar 08 2021",
+    "isrc":"zebra",
+    "content":"Something"
+}
